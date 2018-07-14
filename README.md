@@ -4,6 +4,12 @@
 
 > The Zer0net delivers greater information freedom, identity protection and data privacy than the Internet, without the creepy funk of the Darkweb. You're welcome!
 
+## TL;DR
+
+1. Never, ever, ever tell anyone how much **`0GOLD`** you're hodling.
+2. Identical to Bitcoin, **`0GOLD`** is capped at 21 million bricks.
+3. Unlike Bitcoin, **`0GOLD`** hodlers are rewarded with premium subscriptions and rewards.
+
 ## Token Address *(source code verified)*
 
 ### [0x6ef5bca539A4A01157af842B4823F54F9f7E9968](https://etherscan.io/token/0x6ef5bca539A4A01157af842B4823F54F9f7E9968)
@@ -39,6 +45,23 @@
 
 ** A Hodlre Subscription grants premium access to anyone HODLing at least `1 0GOLD` token (subject to change).*
 
-## Contact Us for Questions
+## ZeroTree
+
+> A repository of ZeroGold collected from premium services rendered within the community.
+
+##### Solidity Example *(this is NOT actual code)*
+
+    // Pick gold from the tree.
+    function pick (uint _dust) public {
+        ZeroGold.transfer(msg.sender, _dust);
+    }
+
+    // Shake the balance from the tree.
+    function shake () public {
+        uint goldBalance = ZeroGold.balanceOf(msg.sender);
+        ZeroGold.transfer(msg.sender, goldBalance);
+    }
+
+## Questions?
 
 support@d14na.org

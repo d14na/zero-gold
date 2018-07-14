@@ -1,14 +1,14 @@
 # ZeroGold (Whitepaper)
 
-**ZeroGold (0GOLD) is the "official" token of the Zer0net and [Zeronet Explorer](https://github.com/d14na/zeronet-explorer).**
+**ZeroGold (0GOLD) is the "official" token of the [Zer0net](https://zer0net.com) and [Zeronet Explorer](https://zeronetexplorer.com).**
 
-> The Zer0net delivers greater information freedom, identity protection and data privacy than the Internet, without the creepy funk of the Darkweb. You're welcome!
+> We're building the Zer0net to deliver you greater information freedom, identity protection and data privacy than the Internet, without the creepy funk of the Darkweb. You're welcome!
 
 ## TL;DR
 
 1. Never, ever, ever tell anyone how much **`0GOLD`** you're hodling.
 2. Identical to Bitcoin, **`0GOLD`** is capped at 21 million bricks.
-3. Unlike Bitcoin, **`0GOLD`** hodlers are rewarded with premium subscriptions and rewards.
+3. Unlike Bitcoin, **`0GOLD`** hodling is encouraged with premium subscriptions and rewards.
 
 ## Token Address *(source code verified)*
 
@@ -41,25 +41,25 @@
 1. Zitetag 1-year registration ***(~$9.99)***
 2. ZeroDelta exchange fee ***(0.30%)***
 3. Ad | Sponsorship fee ***(30%)***
-4. ZeroVPN [ Hodlre\* ***(free)*** | Elite Subscriber ***(based on usage)*** ]
+4. ZeroVPN [ HODLRE\* ***(free)*** | Elite Subscriber ***(based on usage)*** ]
 
-** A Hodlre Subscription grants premium access to anyone HODLing at least `1 0GOLD` token (subject to change).*
+** A HODLRE Subscription grants premium access to anyone HODLing at least `1 0GOLD` token (subject to change).*
 
 ## ZeroTree
 
-> A repository of ZeroGold collected from premium services rendered within the community.
+> A shared repository of ZeroGold collected from premium services rendered within the community.
 
-##### Solidity Example *(this is NOT actual code)*
+##### Solidity Examples *(this is NOT actual code)*
 
-    // Pick gold from the tree.
+    // pick gold from the tree
     function pick (uint _dust) public {
-        ZeroGold.transfer(msg.sender, _dust);
+        ZeroTree.transfer(msg.sender, _dust);
     }
 
-    // Shake the balance from the tree.
+    // shake the balance from the tree
     function shake () public {
-        uint goldBalance = ZeroGold.balanceOf(msg.sender);
-        ZeroGold.transfer(msg.sender, goldBalance);
+        uint goldBalance = ZeroTree.balanceOf(msg.sender);
+        ZeroTree.transfer(msg.sender, goldBalance);
     }
 
 ## Questions?

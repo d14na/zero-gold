@@ -38,10 +38,11 @@
 
 ## List of Commerce Possiblities
 
+1. Vanity address generator ***(HODLRE)***
 1. Zitetag 1-year registration ***(~$9.99)***
 2. ZeroDelta exchange fee ***(0.30%)***
-3. Ad | Sponsorship fee ***(30%)***
-4. ZeroVPN [ HODLRE\* ***(free)*** | Elite Subscriber ***(based on usage)*** ]
+3. ZeroVPN [ HODLRE\* ***(free)*** | Elite Subscriber ***(based on usage)*** ]
+4. Ad | Sponsorship fee ***(30%)***
 
 ** A HODLRE Subscription grants premium access to anyone HODLing at least `1 0GOLD` token (subject to change).*
 

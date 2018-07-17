@@ -1,14 +1,14 @@
 # ZeroGold (Whitepaper)
 
-**ZeroGold (0GOLD) is the "official" token of the [Zer0net](https://zer0net.com) and [Zeronet Explorer](https://zeronetexplorer.com).**
+**ZeroGold (0̸GOLD) is the "official" token of the [Zer0̸net](https://zer0net.com) and [Zeronet Explorer](https://zeronetexplorer.com).**
 
-> We're building the Zer0net to deliver you greater information freedom, identity protection and data privacy than the Internet, without the creepy funk of the Darkweb. You're welcome!
+> We're building the Zer0̸net to deliver you greater information freedom, identity protection and data privacy than the Internet, without the creepy funk of the Darkweb. You're welcome!
 
 ## TL;DR
 
-1. Never, ever, ever tell anyone how much **`0GOLD`** you're hodling.
-2. Identical to Bitcoin, **`0GOLD`** is capped at 21 million bricks.
-3. Unlike Bitcoin, **`0GOLD`** hodling is encouraged with premium subscriptions and rewards.
+1. Never, ever, ever tell anyone how much **`0̸GOLD`** you're hodling.
+2. Identical to Bitcoin, **`0̸GOLD`** is capped at 21 million bricks.
+3. Unlike Bitcoin, **`0̸GOLD`** hodling is encouraged with premium subscriptions and rewards.
 
 ## Token Address *(source code verified)*
 
@@ -17,21 +17,21 @@
 ## ERC20-Compatible Token
 
     Name         : ZeroGold
-    Symbol       : 0GOLD
+    Symbol       : 0̸GOLD
     Total Supply : 21M (21,000,000)
     # Decimals   : 8 (0.00000001)
 
 ## 0Brick
 
-    = 1.00 0GOLD
+    = 1.00 0̸GOLD
 
 ## 0Grain
 
-    = 0.000001 0GOLD
+    = 0.000001 0̸GOLD
 
 ## 0Dust
 
-    = 0.00000001 0GOLD
+    = 0.00000001 0̸GOLD
     = 0.01 0Grain
 
 *i.e. the smallest possible unit will be `1 0Dust`*
@@ -44,7 +44,7 @@
 3. ZeroVPN [ HODLRE\* ***(free)*** | Elite Subscriber ***(based on usage)*** ]
 4. Ad | Sponsorship fee ***(30%)***
 
-** A HODLRE Subscription grants premium access to anyone HODLing at least `1 0GOLD` token (subject to change).*
+A HODLRE Subscription grants premium access to anyone HODLing at least `1 0̸GOLD` token *(subject to change).*
 
 ## ZeroTree
 

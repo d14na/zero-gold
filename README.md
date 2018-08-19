@@ -1,68 +1,113 @@
 # ZeroGold (Whitepaper)
 
-**ZeroGold (0̸GOLD) is the "official" token of the [Zer0̸net](https://zer0net.com) and [Zeronet Explorer](https://zeronetexplorer.com).**
+**Crypto's #1 HODLRE Coin — Official Community Token of the [Zer0̸net](https://zer0net.com) and [Zeronet Explorer](https://zeronetexplorer.com).**
 
-> We're building the Zer0̸net to deliver you greater information freedom, identity protection and data privacy than the Internet, without the creepy funk of the Darkweb. You're welcome!
+##### https://ZeroGold.Info
+
+> ZeroGold was designed with the spirit of Bitcoin's infamous **HODL** Community. However, unlike a Bitcoin HODLRE, there are very clear incentives in becoming a **0GOLD HODLRE.**  
 
 ## TL;DR
 
-1. Never, ever, ever tell anyone how much **`0̸GOLD`** you're hodling.
-2. Identical to Bitcoin, **`0̸GOLD`** is capped at 21 million bricks.
-3. Unlike Bitcoin, **`0̸GOLD`** hodling is encouraged with premium subscriptions and rewards.
+ZeroGold empowers you to take FULL advantage of ALL the **Premium Features & Services** available throughout the growing Zer0̸net community **WITHOUT** having to spend even a single speck of **precious ZeroGold dust** to do it.
 
-## Token Address *(source code verified)*
+> **RULE #1:** NEVER let ANYONE know how much you're HODLing; spouse, kids, father Michael, trust **NO ONE!!**
 
-### [0x6ef5bca539A4A01157af842B4823F54F9f7E9968](https://etherscan.io/token/0x6ef5bca539A4A01157af842B4823F54F9f7E9968)
+---
 
-## ERC20-Compatible Token
+## Token Address *(source code verified on Etherscan)*
+
+##### [0x6ef5bca539A4A01157af842B4823F54F9f7E9968](https://etherscan.io/token/0x6ef5bca539A4A01157af842B4823F54F9f7E9968)
+
+## It's a Bitcoin-ish ERC20 (Mineable) Token
 
     Name         : ZeroGold
-    Symbol       : 0̸GOLD
+    Symbol       : 0GOLD
     Total Supply : 21M (21,000,000)
     # Decimals   : 8 (0.00000001)
 
-## 0Brick
+## 0̸Brick
 
     = 1.00 0̸GOLD
 
-## 0Grain
+## 0̸Grain
 
     = 0.000001 0̸GOLD
 
-## 0Dust
+## 0̸Dust
 
     = 0.00000001 0̸GOLD
     = 0.01 0Grain
 
-*i.e. the smallest possible unit will be `1 0Dust`*
+*i.e. the smallest possible unit will be `1 0̸Dust`*
 
-## List of Commerce Possiblities
+---
 
-1. Vanity address generator ***(HODLRE)***
-1. Zitetag 1-year registration ***(~$9.99)***
-2. ZeroDelta exchange fee ***(0.30%)***
-3. ZeroVPN [ HODLRE\* ***(free)*** | Elite Subscriber ***(based on usage)*** ]
-4. Ad | Sponsorship fee ***(30%)***
+## Planned/Proposed 21M 0̸GOLD Distribution
 
-A HODLRE Subscription grants premium access to anyone HODLing at least `1 0̸GOLD` token *(subject to change).*
+*• distribution is **highly** subject to change •*
 
-## ZeroTree
+    ➤ 10,500,000 — Token Mining
+    ➤  2,500,000 — Zer0net Development
+    ➤  2,000,000 — ZeroCharity
+    ➤  1,000,000 — OG ZeroNet's Reddit Community
+    ➤  1,000,000 — Rainy Day Fund (unforeseen circumstances)
+    ➤  1,000,000 — BitcoinTalk's Community
+    ➤  1,000,000 — Diana's Choice (strategic partners, influencers, etc)
+    ➤    500,000 — Twitter's Community
+    ➤    500,000 — Telegram's Community
+    ➤    500,000 — Other Decentralized Networks
+    ➤    500,000 — Undetermined
 
-> A shared repository of ZeroGold collected from premium services rendered within the community.
+---
 
-##### Solidity Examples *(this is NOT actual code)*
+> **Staking your 0̸GOLD in return for utility tokens** used to engage with the Zer0̸net's growing list of premium features and services will be the primary use-case for the average HODLRE.
 
-    // pick gold from the tree
-    function pick (uint _dust) public {
-        ZeroTree.transfer(msg.sender, _dust);
-    }
+## Planned/Proposed Initial Staking Services
 
-    // shake the balance from the tree
-    function shake () public {
-        uint goldBalance = ZeroTree.balanceOf(msg.sender);
-        ZeroTree.transfer(msg.sender, goldBalance);
-    }
+    ➤ Minado — ZeroGold Mining
+    ➤    0̸PN — Zero Private Network
+    ➤   0̸Ads — Zero Advertising
 
-## Questions?
+### Minado — ZeroGold Mining
 
-support@d14na.org
+HODLREs will be able to mine for ZeroGold in ANY of the more than a dozen ZeroGold mines within our community. Mining will be simulated *(through gamification)*, and used to promote Zeronet Explorer *(and the casual, everyday use of DApps & LApps)* to the non-crypto community.
+
+### 0̸PN — Zero Private Network
+
+The first un-censorable virtual private network (VPN) built exclusively for use on the Zer0net. This network will NOT have access to ANY Clearnet *(ie insecure Internet)* systems. For this reason, we are confident in our ability to adequately scale the network's infrastructure as the use of zites continues to grow.
+
+### 0̸Ads — Zero Advertising
+
+Advertisers will be able to expand their reach proportionally to their stake. Terms of Use violations *(outlined and governed by the community)* will result in a loss of 0̸GOLD *(an amount proportional to the severity of the violation).*
+
+---
+
+## About the Zer0̸net and Our TrustLess Republic™
+
+##### https://zer0net.com
+
+Building on top of 3 tremendous years of work by **[nofish](https://github.com/shortcutme)** and the **[ZeroNet community](https://www.reddit.com/r/zeronet/),** D14na's team is working overtime to expand the nascent peer-to-peer network into **THE Defacto Platform** for anything in need of **highly secure, infinitely scalable, censorship-proof hosting.** This is a network custom built for the growing number of DApps and LApps being introduced each and every day.
+
+### Planned/Proposed Launch Projects
+
+    ➤ Zeronet Explorer — The NEW Internet Explorer
+    ➤           SUPeer — Peer-to-peer Communications Hub
+    ➤         Zitetags — GoDaddy-like .BIT Registrar
+    ➤      ZeroCapital — Rewards & Bounties Network
+    ➤       ZeroCoding — Atom plugin for Zite Development
+    ➤          ZeroCDN — Content Delivery Network for Zites
+    ➤       ZeroVanity — Vanity Zite Address Generator
+    ➤       Hello Zero — Boilerplate Zite Templates
+    ➤       ZeroIssues — Error Handling and Issue Management
+
+---
+
+## Reality Check
+
+This is a tremendously ambition project and we are actively engaging with various decentralized communities to build traction and develop guidance for our continued development. So, please come talk to us. We warmly welcome ANY and ALL feedback and/or constructive criticism.
+
+**[REDDIT](https://www.reddit.com/r/ZeroGold) | [TELEGRAM](https://t.me/Zer0net) | [GITTER](https://gitter.im/d14na/ZeroGold)**
+
+## Decentralization Authority
+
+**https://d14na.org | support@d14na.org**

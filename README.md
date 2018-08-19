@@ -2,9 +2,9 @@
 
 **Crypto's #1 HODLRE Coin — Official Community Token of the [Zer0̸net](https://zer0net.com) and [Zeronet Explorer](https://zeronetexplorer.com).**
 
-##### https://ZeroGold.Info
+### https://ZeroGold.Info
 
-> ZeroGold was designed with the spirit of Bitcoin's infamous **HODL** Community. However, unlike a Bitcoin HODLRE, there are very clear incentives in becoming a **0GOLD HODLRE.**  
+> ZeroGold was designed with the spirit of Bitcoin's infamous **HODL** Community. However, unlike a Bitcoin HODLRE, there are very clear incentives in becoming a **0̸GOLD HODLRE.**  
 
 ## TL;DR
 
@@ -16,7 +16,7 @@ ZeroGold empowers you to take FULL advantage of ALL the **Premium Features & Ser
 
 ## Token Address *(source code verified on Etherscan)*
 
-##### [0x6ef5bca539A4A01157af842B4823F54F9f7E9968](https://etherscan.io/token/0x6ef5bca539A4A01157af842B4823F54F9f7E9968)
+### [0x6ef5bca539A4A01157af842B4823F54F9f7E9968](https://etherscan.io/token/0x6ef5bca539A4A01157af842B4823F54F9f7E9968)
 
 ## It's a Bitcoin-ish ERC20 (Mineable) Token
 
@@ -84,7 +84,7 @@ Advertisers will be able to expand their reach proportionally to their stake. Te
 
 ## About the Zer0̸net and Our TrustLess Republic™
 
-##### https://zer0net.com
+### https://zer0net.com
 
 Building on top of 3 tremendous years of work by **[nofish](https://github.com/shortcutme)** and the **[ZeroNet community](https://www.reddit.com/r/zeronet/),** D14na's team is working overtime to expand the nascent peer-to-peer network into **THE Defacto Platform** for anything in need of **highly secure, infinitely scalable, censorship-proof hosting.** This is a network custom built for the growing number of DApps and LApps being introduced each and every day.
 
@@ -104,7 +104,7 @@ Building on top of 3 tremendous years of work by **[nofish](https://github.com/s
 
 ## Reality Check
 
-This is a tremendously ambition project and we are actively engaging with various decentralized communities to build traction and develop guidance for our continued development. So, please come talk to us. We warmly welcome ANY and ALL feedback and/or constructive criticism.
+This is a tremendously ambition project and we are actively engaging with various decentralized communities to build traction and develop guidance for its continued development. So, please come talk to us. We warmly welcome ANY and ALL feedback and/or constructive criticism.
 
 **[REDDIT](https://www.reddit.com/r/ZeroGold) | [TELEGRAM](https://t.me/Zer0net) | [GITTER](https://gitter.im/d14na/ZeroGold)**
 

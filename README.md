@@ -1,6 +1,6 @@
 # ZeroGold (Whitepaper)
 
-**Crypto's #1 HODLRE Coin — Official Community Token of the [Zer0̸net](https://zer0net.com) and [Zeronet Explorer](https://zeronetexplorer.com).**
+**Crypto's #1 HODL Coin — Official Community Token of the [Zer0̸net](https://zer0net.com) and [Zeronet Explorer](https://zeronetexplorer.com).**
 
 ### https://ZeroGold.Info
 
